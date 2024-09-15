@@ -43,19 +43,6 @@ pip install transformers datasets sklearn matplotlib torch umap-learn plotly
    - **UMAP Visualization**: Reduced dimensionality to 2D and plotted using Matplotlib.
    - **3D Interactive Plot**: Plotted using Plotly for a more interactive exploration of clusters.
 
-## Example Visualizations
-
-### 2D PCA Visualization
-
-![PCA Visualization](path/to/pca_visualization.png)
-
-### 2D UMAP Visualization
-
-![UMAP Visualization](path/to/umap_visualization.png)
-
-### 3D Interactive Plot
-
-![3D Plot](path/to/3d_plot.html)
 
 ## Results
 
